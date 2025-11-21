@@ -1,8 +1,8 @@
 ﻿Name: Awa Emmanuel
 Matric Number: 23CE034385
 
-Live URL: https://llm-qa-osarenkhoe-23cg034140.onrender.com/
-GitHub Repository: https://github.com/OsatohanmwenT/LLM_QA_OSARENKHOE_23CG034140
+Live URL: https://llm-qa-awa-23ce034385.onrender.com
+GitHub Repository: https://github.com/AwaEmmanuel-lab/LLM_QA_AWA_23CE034385
 
 Instructions:
 1. Deploy the application to Render.com
